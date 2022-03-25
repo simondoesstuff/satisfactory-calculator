@@ -844,6 +844,17 @@
             "product": ["modular-frame", 3]
         },
         {
+            "name": "Alternate: Bolted Frame",
+            "key_name": "alt-bolted-frame",
+            "category": "crafting2",
+            "time": 24,
+            "ingredients": [
+                ["reinforced-iron-plate",3],
+                ["screw", 56]
+            ],
+            "product": ["modular-frame", 2]
+        },
+        {
             "name": "Encased Industrial Beam",
             "key_name": "encased-industrial-beam",
             "category": "crafting2",
