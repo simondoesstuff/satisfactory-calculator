@@ -830,7 +830,7 @@
                 ["reinforced-iron-plate", 3],
                 ["iron-rod", 12]
             ],
-            "product": ["modular-frame", 1]
+            "product": ["modular-frame", 2]
         },
         {
             "name": "Alternate: Modular Frame",
