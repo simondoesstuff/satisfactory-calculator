@@ -828,7 +828,7 @@
             "time": 15,
             "ingredients": [
                 ["reinforced-iron-plate", 3],
-                ["iron-rod", 6]
+                ["iron-rod", 12]
             ],
             "product": ["modular-frame", 1]
         },
